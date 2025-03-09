@@ -7,7 +7,6 @@ import uvicorn
 import os
 import io
 from PIL import Image
-import tensorflow as tf
 from typing import List, Optional
 
 # Load the crop recommendation model, scaler, and crop mapping
